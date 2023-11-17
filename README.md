@@ -1,6 +1,6 @@
-Highlight.js language definition for TON Tact
+Highlight.js language definition for TON Fift
 
-# Tact - a langauge grammar for [highlight.js](https://highlightjs.org/)
+# Fift - a langauge grammar for [highlight.js](https://highlightjs.org/)
 
 ## Usage
 
@@ -15,4 +15,4 @@ for details.
 
 - The official site for the Highlight.js library is <https://highlightjs.org/>.
 - The Highlight.js GitHub project: <https://github.com/highlightjs/highlight.js>
-- Learn more about Tact: <https://tact-lang.org/>
+- Learn more about Fift: <https://docs.ton.org/develop/fift/overview>
